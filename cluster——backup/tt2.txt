@@ -1,0 +1,2 @@
+
+tehachapi KMeans iter_time:300 d:36K3 mse:6.565944459901753

@@ -1,0 +1,107 @@
+100 use peepholes  2 loss:0.00606332mse:7.15099864884
+100 use peepholes  2 loss:0.00571145mse:7.15286416122
+100 use peepholes  2 loss:0.00616015mse:6.98301073904
+100 use peepholes  2 loss:0.00589819mse:7.06044168126
+100 use peepholes  2 loss:0.00586934mse:7.05032084655
+:l1
+
+
+2000 use peepholes  2 loss:0.00532068mse:7.42199653736
+1000 use peepholes  2 loss:0.0046107mse:7.72787397451
+1000 use peepholes  2 loss:0.00543312mse:7.59529095756
+1000 use peepholes  2 loss:0.00503767mse:7.20140631831
+1000 use peepholes  2 loss:0.00511152mse:7.65731520913
+1000 use peepholes  2 loss:0.00534527mse:7.47604652151
+1000 use peepholes  2 loss:0.00489799mse:7.60333176845
+1000 use peepholes  2 loss:0.00518529mse:7.47005951615
+1000 use peepholes  2 loss:0.00461968mse:7.67299438237
+1000 use peepholes  2 loss:0.00478143mse:7.53848998265
+1000 use peepholes  2 loss:0.00566827mse:7.07401977984
+1000 use peepholes  2 loss:0.00523691mse:7.32786246444
+1000 use peepholes  2 loss:0.00503765mse:7.68812155336
+2000 use peepholes  2 loss:0.00475064mse:7.41419828705
+1000 use peepholes  2 loss:0.00467773mse:7.72463671586
+2000 use peepholes  2 loss:0.00489422mse:7.24911450996
+2000 use peepholes  2 loss:0.00446874mse:7.48405912928
+2000 use peepholes  2 loss:0.00454475mse:7.57031787252
+2000 use peepholes  2 loss:0.00526413mse:7.54609965862
+2000 use peepholes  2 loss:0.00511004mse:7.75638891742
+2000 use peepholes  2 loss:0.00553768mse:7.01251939991
+2000 use peepholes  2 loss:0.00524898mse:7.47380005048
+2000 use peepholes  2 loss:0.00478739mse:7.94566913228
+2000 use peepholes  2 loss:0.00490043mse:7.82730378626
+2000 use peepholes  2 loss:0.00527687mse:7.29874222869
+2000 use peepholes  2 loss:0.0045872mse:8.28798737457
+2000 use peepholes  2 loss:0.00500719mse:7.55825159584
+2000 use peepholes  2 loss:0.00487444mse:7.56254725701
+
+0.995 
+
+
+1000 use peepholes  2 lr0.95  loss: 0.00844888 mse: 8.85411200887
+1000 use peepholes  2 lr0.95  loss: 0.00820621 mse: 8.47631442109
+1000 use peepholes  2 lr0.95  loss: 0.00730118 mse: 7.90111060646
+1000 use peepholes  2 lr0.95  loss: 0.00691813 mse: 7.27057443918
+1000 use peepholes  2 lr0.95  loss: 0.00649868 mse: 7.46828595158
+1000 use peepholes  2 lr0.95  loss: 0.00653838 mse: 7.28907001136
+1000 use peepholes  2 lr0.95  loss: 0.00648991 mse: 7.39962341661
+1000 use peepholes  2 lr0.95  loss: 0.00605641 mse: 6.98657398052
+1000 use peepholes  2 lr0.95  loss: 0.00683176 mse: 7.45381237854
+1000 use peepholes  2 lr0.95  loss: 0.00655682 mse: 7.56128083046
+1000 use peepholes  2 lr0.95  loss: 0.00731039 mse: 8.09835130982
+1000 use peepholes  2 lr0.95  loss: 0.00769215 mse: 8.57388519845
+1000 use peepholes  2 lr0.95  loss: 0.0068931 mse: 7.22024526854
+1000 use peepholes  2 lr0.95  loss: 0.00723026 mse: 7.59984550822
+1000 use peepholes  2 lr0.95  loss: 0.00684523 mse: 7.60848595212
+1000 use peepholes  2 lr0.95  loss: 0.00675603 mse: 7.55243975302
+1000 use peepholes  2 lr0.95  loss: 0.00695573 mse: 7.72108085417
+1000 use peepholes  2 lr0.95  loss: 0.00700422 mse: 7.60695743023
+1000 use peepholes  2 lr0.95  loss: 0.00692884 mse: 7.62140469314
+1000 use peepholes  2 lr0.95  loss: 0.00723326 mse: 7.72352571758
+1000 use peepholes  2 lr0.95  loss: 0.00760646 mse: 8.01936337463
+
+1000 not  use peepholes  2 lr0.995  loss: 0.00464947 mse: 7.90525151517
+1000 not  use peepholes  2 lr0.995  loss: 0.00516707 mse: 7.41870142747
+1000 not  use peepholes  2 lr0.995  loss: 0.00485588 mse: 7.40430392534
+1000 not  use peepholes  2 lr0.995  loss: 0.0045877 mse: 7.73876188291
+1000 not  use peepholes  2 lr0.995  loss: 0.00486779 mse: 8.05233965097
+1000 not  use peepholes  2 lr0.995  loss: 0.00515317 mse: 7.18882123334
+1000 not  use peepholes  2 lr0.995  loss: 0.00499679 mse: 7.82569139317
+1000 not  use peepholes  2 lr0.995  loss: 0.00481365 mse: 7.73797034559
+1000 not  use peepholes  2 lr0.995  loss: 0.00544458 mse: 7.14269004065
+1000 not  use peepholes  2 lr0.995  loss: 0.00490707 mse: 7.46812306396
+1000 not  use peepholes  2 lr0.995  loss: 0.00528585 mse: 7.32568956519
+1000 not  use peepholes  2 lr0.995  loss: 0.00498541 mse: 7.88545421398
+
+1000 not  use peepholes  2 lr0.995  loss: 0.00498139 mse: 7.49373918077
+1000 not  use peepholes  2 lr0.995  loss: 0.00456328 mse: 7.46585187372
+1000 not  use peepholes  2 lr0.995  loss: 0.0047525 mse: 7.68600854969
+1000 not  use peepholes  2 lr0.995  loss: 0.00457762 mse: 7.46121572002
+1000 not  use peepholes  2 lr0.995  loss: 0.0055152 mse: 7.01710257202
+1000 not  use peepholes  2 lr0.995  loss: 0.00482533 mse: 7.57838442302
+1000 not  use peepholes  2 lr0.995  loss: 0.004893 mse: 7.35407384995
+1000 not  use peepholes  2 lr0.995  loss: 0.0051974 mse: 7.28660392572
+1000 not  use peepholes  2 lr0.995  loss: 0.0044789 mse: 7.63122370605
+1000 not  use peepholes  2 lr0.995  loss: 0.00506523 mse: 7.48101886686
+1000 not  use peepholes  2 lr0.995  loss: 0.00497643 mse: 7.29735056964
+1000 not  use peepholes  2 lr0.995  loss: 0.00493597 mse: 7.7745961165
+1000 not  use peepholes  2 lr0.995  loss: 0.00512937 mse: 7.48183418237
+1000 not  use peepholes  2 lr0.995  loss: 0.00501957 mse: 7.42316467336
+1000 not  use peepholes  2 lr0.995  loss: 0.00531606 mse: 7.18875174148
+1000 not  use peepholes  2 lr0.995  loss: 0.00530352 mse: 7.64585842955
+1000 not  use peepholes  2 lr0.995  loss: 0.00542206 mse: 7.32942059821
+1000 not  use peepholes  2 lr0.995  loss: 0.00517731 mse: 7.74697232914
+1000 not  use peepholes  2 lr0.995  loss: 0.00489155 mse: 7.72322575178
+1000 not  use peepholes  2 lr0.995  loss: 0.00530533 mse: 7.25919348365
+1000 not  use peepholes  2 lr0.995  loss: 0.00507353 mse: 7.30227317294
+
+1000 use peepholes layer5 hiddensize=inputsize/2  5 lr0.995  loss: 0.00483515 mse: 7.40141315537
+1000 use peepholes layer5 hiddensize=inputsize/2  5 lr0.995  loss: 0.00492507 mse: 7.21478136307
+1000 use peepholes layer5 hiddensize=inputsize/2  5 lr0.995  loss: 0.00523477 mse: 7.88120574951
+1000 use peepholes layer5 hiddensize=inputsize/2  5 lr0.995  loss: 0.00495832 mse: 7.47744707102
+1000 use peepholes layer5 hiddensize=inputsize/2  5 lr0.995  loss: 0.00498656 mse: 7.18800282024
+1000 use peepholes layer5 hiddensize=inputsize/2  5 lr0.995  loss: 0.00523198 mse: 7.15529771586
+1000 use peepholes layer5 hiddensize=inputsize/2  5 lr0.995  loss: 0.00470924 mse: 7.1179988558
+1000 use peepholes layer5 hiddensize=inputsize/2  5 lr0.995  loss: 0.00490704 mse: 7.42075910613
+1000 use peepholes layer5 hiddensize=inputsize/2  5 lr0.995  loss: 0.00507424 mse: 7.28748531267
+1000 use peepholes layer5 hiddensize=inputsize/2  5 lr0.995  loss: 0.00530796 mse: 7.45483563228
